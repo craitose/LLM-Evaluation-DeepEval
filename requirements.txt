@@ -1,0 +1,7 @@
+deepeval
+pytest
+ollama
+pandas
+python-dotenv
+openai
+re

@@ -1,0 +1,5 @@
+.env
+_pycache_
+.pytest_cache
+.deepeval
+deepeval_report.html
